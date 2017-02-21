@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/gallery"
+        android:icon="@drawable/ic_insert_photo_white_24dp"
+        android:orderInCategory="100"
+        android:title="Choose from Gallery"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/tags"
+        android:icon="@drawable/ic_tag_multiple_white_24dp"
+        android:orderInCategory="100"
+        android:title="Add Tags"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/done"
+        android:orderInCategory="100"
+        android:title="Done"
+        app:showAsAction="always" />
+
+</menu>

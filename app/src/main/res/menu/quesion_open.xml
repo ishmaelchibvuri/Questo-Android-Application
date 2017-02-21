@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/stack"
+        android:icon="@drawable/ic_stackexchange_white_24dp"
+        android:orderInCategory="1"
+        android:title="Stack Exchange"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/quora"
+        android:icon="@drawable/quora"
+        android:orderInCategory="1"
+        android:title="Quora"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="1"
+        android:title="Edit"
+        android:visible="false" />
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="1"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/sharelink"
+        android:orderInCategory="1"
+        android:title="Copy link" />
+
+    <item
+        android:id="@+id/report"
+        android:orderInCategory="1"
+        android:title="Report" />
+
+
+</menu>

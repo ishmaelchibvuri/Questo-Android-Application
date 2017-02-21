@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ns"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.tdevelopers.questo.Opens.ArticleOpenActivity"
+    tools:showIn="@layout/activity_article_open">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_toLeftOf="@+id/link"
+                android:layout_toStartOf="@+id/link"
+                android:ellipsize="end"
+                android:maxLines="6"
+                android:text="@string/com_facebook_loading"
+                android:textAppearance="?attr/textAppearanceLargePopupMenu"
+                android:textIsSelectable="true"
+                android:textSize="26sp" />
+
+            <ImageView
+                android:id="@+id/link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="4dp"
+                android:background="?android:attr/selectableItemBackground"
+
+                android:clickable="true"
+                android:padding="8dp"
+                android:src="@drawable/ic_link_blue_500_24dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/com_facebook_loading" />
+
+
+        <co.lujun.androidtagview.TagContainerLayout
+            android:id="@id/tag_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="4dp"
+            android:padding="10dp"
+            android:visibility="gone"
+            app:container_background_color="#00000000"
+            app:container_border_color="#33666666"
+            app:container_border_radius="0dp"
+            app:horizontal_interval="10dp"
+            app:tag_background_color="#00000000"
+            app:tag_border_color="@color/com_facebook_blue"
+            app:tag_border_width="2dp"
+            app:tag_clickable="true"
+            app:tag_corner_radius="1dp"
+            app:tag_horizontal_padding="15dp"
+            app:tag_text_color="#ff666666"
+            app:tag_text_size="14sp"
+            app:tag_theme="none"
+            app:tag_vertical_padding="10dp"
+            app:vertical_interval="10dp"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="4dp"
+            android:text="Read by :"
+            android:textColor="@color/colorPrimary" />
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/viewersrv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/userdp"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/avatar_richmond" />
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:layout_toRightOf="@+id/userdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/com_facebook_loading"
+                    android:textColor="@color/md_material_blue_600" />
+
+
+                <TextView
+                    android:id="@+id/nameinfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/name"
+                    android:layout_alignStart="@+id/name"
+                    android:layout_below="@+id/likes_count"
+                    android:layout_marginTop="4dp"
+                    android:text="@string/com_facebook_loading" />
+            </LinearLayout>
+
+            <com.like.LikeButton
+                android:id="@+id/like"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/likes_count" />
+
+            <TextView
+                android:id="@+id/likes_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:padding="16dp"
+                android:text="0"
+                android:textColor="@android:color/holo_red_dark" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="2dp"
+            android:lineSpacingMultiplier="2"
+            android:text="Loading"
+            android:textColor="@android:color/black"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp">
+
+            <ImageView
+
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="16dp"
+                android:src="@drawable/ic_comment_blue_500_24dp" />
+
+            <TextView
+                android:id="@+id/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@+id/icon"
+
+                android:text="Comments :"
+                android:textColor="@color/colorPrimary"
+                android:textSize="21sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="4dp"
+                android:layout_toLeftOf="@+id/mute"
+                android:text="Mute"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
+
+            <android.support.v7.widget.SwitchCompat
+                android:id="@+id/mute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="16dp"
+
+                />
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+android:layout_marginEnd="8dp"
+                android:layout_marginRight="8dp"
+                android:src="@drawable/noobie" />
+
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@+id/newc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="16dp"
+                android:layout_weight="1"
+                android:fadeScrollbars="false"
+                android:hint="Enter your Comment :"
+                android:inputType="textMultiLine"
+                android:isScrollContainer="true"
+                android:nextFocusLeft="@id/newc"
+                android:nextFocusUp="@id/newc"
+                android:scrollbars="vertical"
+
+                />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/commentadd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:scaleType="center"
+                android:src="@drawable/ic_send_white_18dp"
+                app:fabSize="mini" />
+
+
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/commentsrv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="32dp" />
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

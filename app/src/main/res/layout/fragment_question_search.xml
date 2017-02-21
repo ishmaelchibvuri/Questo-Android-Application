@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tdevelopers.questo.SearchFragments.QuestionSearch">
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:src="@drawable/biker" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/searchquestionrv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <ImageView
+        android:id="@+id/notfound"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/notfound"
+        android:visibility="gone" />
+</FrameLayout>

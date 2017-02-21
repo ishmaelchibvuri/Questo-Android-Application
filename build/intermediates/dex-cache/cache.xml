@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_e558aba3b969eea1fd49b64d6242df549619fcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-customtabs-25.0.0_36342b85e741e4edeb35dd44a72c26f389207ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_89100c6ebdaf81d8bd87faf32b708eaac0ac26cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.4.0_91ddf92ee71ca30ff6fd441746f9e84cb7354062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_9026d974f6956fb87d5def42f9125f508ffea288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.4.0_af5f240d712b814072fd9c0e55950b182992289e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_68bb764e4e2ece0a9df8c0558b25d9a09c2e337a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\co.lujun\androidtagview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e69d1560e8b161be8d2b11c421e26b297253d0b7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\co.lujun-androidtagview-1.0.3_db5df28e52bfdc05e51021c6c7b32fd9215e3114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_96f12921939609209ce45444eb4dcfc77e621bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c146e86134622a0158c563953c4f5656587bff96">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.4_858785e1de4e4624f5e98d2a9a9b83b41ae69631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.5\e135072797f494a3b6cb10640dd8c6495261b9ac\MPAndroidChart-v2.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e135072797f494a3b6cb10640dd8c6495261b9ac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\MPAndroidChart-v2.2.5_e49f68e4226e45e60a59b91f0fc1b89ec8a6e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\library-2.4.0_7ea672fb285f5c3a9d3e22dd10c2fa91c73c7d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_0b6bab8a3d32729dbb0fcd2ee43e817b44322717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22c54a05352396973f57ea3d11df1317c85cdff">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bbff8e786de6fbc62f0ccbbfa6e7d9e279df2183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_af5f240d712b814072fd9c0e55950b182992289e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4cf6ff414996005f936308df484b1e27f7d1592e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.github.aakira-expandable-layout-1.5.1_d7022c89552c147e077e88a7dfcd302408f0c496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_14e25f80bf04c4c372dd9906b26c61d7865a2265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_45f4d20d1499386ed6d453395c23e5651233be44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_0d49d5129adfdb08f6d060a922cc85623b06c0ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.mikepenz-iconics-core-2.5.11_b7f32c2a0d8aa09f06f3ba788538b91050ee6de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tiancaicc.springfloatingactionmenu\library\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3108c76c163ba6011293ed5fdd1d599b0eb36327">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.tiancaicc.springfloatingactionmenu-library-0.0.2_c8824703fa6812e99c108060fa635cf8872f151c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.0_da51350c9341fff280222a6ce76c70177c343342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_22ff7383097114ebe1bc5e76d2b40e316be2814b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_91ddf92ee71ca30ff6fd441746f9e84cb7354062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_c09735153a6340db09e20e94ed38a868ff5a0b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_d067a42de7cbcbf34cee821d08e94f8fe0f0c7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_ac26128654a804f4526b8bd3a12aafd6648207c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_18ac204284e3b58a2052fa260727f707a9810e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\actionitembadge\3.2.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d75f3f7fff8daff98faaf704a955a99edce6037c">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.mikepenz-actionitembadge-3.2.5_b6b826b4dc675793314dbb4466817e41e5444c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\co.lujun\androidtagview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e69d1560e8b161be8d2b11c421e26b297253d0b7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\co.lujun-androidtagview-1.0.3_db5df28e52bfdc05e51021c6c7b32fd9215e3114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_36342b85e741e4edeb35dd44a72c26f389207ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_10ffd51d363736882d2660826cf932ad1293a11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.cocosw\bottomsheet\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.cocosw-bottomsheet-1.3.0_81b6e8438aa24b38ea783185d50a9f80f77b96ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.jd-alexander\LikeButton\0.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="042cf6b3b9ef0ea3baacd9b27e4901680769cbc8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.github.jd-alexander-LikeButton-0.2.0_74480ccaa74481ad467f50c6fd5e99c0178ab050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\library-2.4.0_7ea672fb285f5c3a9d3e22dd10c2fa91c73c7d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.4.0_0bff3867fb3fdcb4d98ebc73837f8074e453dcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_473e4d6848b4fb587860055e73bdef20a09793ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\me.zhanghai.android.materialprogressbar-library-1.1.5_0b6bab8a3d32729dbb0fcd2ee43e817b44322717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.8\c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e\rebound-0.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\rebound-0.3.8_2f8322ebf29809efbab93e870aca6a15c996b503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-9.4.0_9026d974f6956fb87d5def42f9125f508ffea288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.4.0_46b40785e4b940a101bcb9624ce349f6964d05a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.4.0_c1bdf831be499b293119d0478408a85fd2f13195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_edcc2be808034310a76860248e14d3df261ddadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_cc15f28ebcbd5a23a8d274b18b1f81caade26aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_7d75907be898d308e8be553bc27ee4e32da6e79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.4.0_54f8ec3cd84da1541faba5d42cb5c9e6e4c108ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.heinrichreimersoftware\material-intro\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30e74f4af002cd833dc95b857357bb0381223dde">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.heinrichreimersoftware-material-intro-1.4_ecb30d368055c447e5454ec929674653d1df124f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2f25c764a6ae0ab135e202ad10ae5ecd50f29e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b32cca3d91b14ee546f768a85196536b0ffdd070">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\instant-run_cfb370039eaec6a86772af5a983ce096fb7909bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.4.0_ac26128654a804f4526b8bd3a12aafd6648207c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-common-9.4.0_54f8ec3cd84da1541faba5d42cb5c9e6e4c108ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5b76a6c74c00c77d3fa028088a4627dcc7d38446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_5145fb86f0014bedd36ae373076d25ce30b812b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_34ce629f5f102ecce39ac29d5d09128f76819d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_18ac204284e3b58a2052fa260727f707a9810e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_ac26128654a804f4526b8bd3a12aafd6648207c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_d1088d978180dc5bcb93b62e4bf00a91ad20d883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.cocosw\bottomsheet\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.cocosw-bottomsheet-1.3.0_81b6e8438aa24b38ea783185d50a9f80f77b96ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.8\c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e\rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\rebound-0.3.8_2f8322ebf29809efbab93e870aca6a15c996b503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_d067a42de7cbcbf34cee821d08e94f8fe0f0c7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.cocosw\bottomsheet\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.cocosw-bottomsheet-1.3.0_81b6e8438aa24b38ea783185d50a9f80f77b96ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.heinrichreimersoftware\material-intro\1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30e74f4af002cd833dc95b857357bb0381223dde">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.heinrichreimersoftware-material-intro-1.4_ecb30d368055c447e5454ec929674653d1df124f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\picasso-2.5.2_cc15f28ebcbd5a23a8d274b18b1f81caade26aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_c1bdf831be499b293119d0478408a85fd2f13195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_51406372a4f3af51e0f21c5e3c91ceee138a3bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.0.0_c09735153a6340db09e20e94ed38a868ff5a0b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_cc15f28ebcbd5a23a8d274b18b1f81caade26aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_9026d974f6956fb87d5def42f9125f508ffea288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\bolts-applinks-1.4.0_68bb764e4e2ece0a9df8c0558b25d9a09c2e337a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.11_b7f32c2a0d8aa09f06f3ba788538b91050ee6de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_2f25c764a6ae0ab135e202ad10ae5ecd50f29e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_da51350c9341fff280222a6ce76c70177c343342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.5.9_48694d88cd702cb5822327c0d49a8e24a79c81d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.4.0_8425df1e06c9a4999a17cff2f5bf8b9b07f53511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.5\e135072797f494a3b6cb10640dd8c6495261b9ac\MPAndroidChart-v2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e135072797f494a3b6cb10640dd8c6495261b9ac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.5_e49f68e4226e45e60a59b91f0fc1b89ec8a6e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5145fb86f0014bedd36ae373076d25ce30b812b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_48dbc5e7945d3412961b76d4655781cf2c3ed288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.0_18ac204284e3b58a2052fa260727f707a9810e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.4.0_0bff3867fb3fdcb4d98ebc73837f8074e453dcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_8be7b21074f0957040b80409427b52e29ff1da31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.0_22ff7383097114ebe1bc5e76d2b40e316be2814b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_34ce629f5f102ecce39ac29d5d09128f76819d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-common-9.4.0_d067a42de7cbcbf34cee821d08e94f8fe0f0c7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_48dbc5e7945d3412961b76d4655781cf2c3ed288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_b0e8257e2f119da3f3f3f70a4a4c7db408888a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\library-2.4.0_7ea672fb285f5c3a9d3e22dd10c2fa91c73c7d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.4.0_0bff3867fb3fdcb4d98ebc73837f8074e453dcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_5b76a6c74c00c77d3fa028088a4627dcc7d38446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.0_10ffd51d363736882d2660826cf932ad1293a11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_45f4d20d1499386ed6d453395c23e5651233be44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_14e25f80bf04c4c372dd9906b26c61d7865a2265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-palette-v7-24.2.0_ddf5d808e91a1f42e9f3af8fa5da7847e7b6e389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.lapism\searchview\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8909b9ddd3e30c27a90de34169d3240b095aedf4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.lapism-searchview-3.0.2_a1d7d30fbfb23d0e43624dd4092ee78d4b3aa02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\co.lujun\androidtagview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e69d1560e8b161be8d2b11c421e26b297253d0b7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\co.lujun-androidtagview-1.0.3_db5df28e52bfdc05e51021c6c7b32fd9215e3114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_96f12921939609209ce45444eb4dcfc77e621bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.0_89100c6ebdaf81d8bd87faf32b708eaac0ac26cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tiancaicc.springfloatingactionmenu\library\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3108c76c163ba6011293ed5fdd1d599b0eb36327">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.tiancaicc.springfloatingactionmenu-library-0.0.2_c8824703fa6812e99c108060fa635cf8872f151c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_af5f240d712b814072fd9c0e55950b182992289e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_36342b85e741e4edeb35dd44a72c26f389207ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.melnykov-floatingactionbutton-1.3.0_473e4d6848b4fb587860055e73bdef20a09793ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_22ff7383097114ebe1bc5e76d2b40e316be2814b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-connection-9.4.0_e558aba3b969eea1fd49b64d6242df549619fcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.0_b0e8257e2f119da3f3f3f70a4a4c7db408888a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c146e86134622a0158c563953c4f5656587bff96">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\pl.droidsonroids.gif-android-gif-drawable-1.2.4_858785e1de4e4624f5e98d2a9a9b83b41ae69631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_c09735153a6340db09e20e94ed38a868ff5a0b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_8be7b21074f0957040b80409427b52e29ff1da31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.4.0_8be7b21074f0957040b80409427b52e29ff1da31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.5\e135072797f494a3b6cb10640dd8c6495261b9ac\MPAndroidChart-v2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e135072797f494a3b6cb10640dd8c6495261b9ac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.5_e49f68e4226e45e60a59b91f0fc1b89ec8a6e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4cf6ff414996005f936308df484b1e27f7d1592e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.github.aakira-expandable-layout-1.5.1_d7022c89552c147e077e88a7dfcd302408f0c496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_b0e8257e2f119da3f3f3f70a4a4c7db408888a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_14e25f80bf04c4c372dd9906b26c61d7865a2265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_473e4d6848b4fb587860055e73bdef20a09793ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_10ffd51d363736882d2660826cf932ad1293a11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_39a3f3501c22ff1bb844de7ce1efae2a4ac217b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_5faff22164461083f2999c2b1826a37fc7f4f6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.0_45f4d20d1499386ed6d453395c23e5651233be44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_7d75907be898d308e8be553bc27ee4e32da6e79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.4.0_46b40785e4b940a101bcb9624ce349f6964d05a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.4.0_54f8ec3cd84da1541faba5d42cb5c9e6e4c108ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c146e86134622a0158c563953c4f5656587bff96">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.4_858785e1de4e4624f5e98d2a9a9b83b41ae69631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_89100c6ebdaf81d8bd87faf32b708eaac0ac26cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-9.4.0_8425df1e06c9a4999a17cff2f5bf8b9b07f53511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.afollestad.material-dialogs-core-0.8.5.9_48694d88cd702cb5822327c0d49a8e24a79c81d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.lapism\searchview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8909b9ddd3e30c27a90de34169d3240b095aedf4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.lapism-searchview-3.0.2_a1d7d30fbfb23d0e43624dd4092ee78d4b3aa02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_2f25c764a6ae0ab135e202ad10ae5ecd50f29e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_96f12921939609209ce45444eb4dcfc77e621bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5b76a6c74c00c77d3fa028088a4627dcc7d38446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.18.0_54a8660d9cd8201dfbb0fc6e64cadea44a74952e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fe0de874634adfeaa2509a40ff2a5ea4133c7ab6">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bbff8e786de6fbc62f0ccbbfa6e7d9e279df2183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.0_ddf5d808e91a1f42e9f3af8fa5da7847e7b6e389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_2cddc71c7110d4a902a7e1bddac76ec4903ed3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-9.4.0_5faff22164461083f2999c2b1826a37fc7f4f6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tumblr\backboard\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80b962f6d769ec8c0413fa6a603c2717e1d06885">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.tumblr-backboard-0.1.0_1f85b4347778497802e3ab133526c939ff179ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.heinrichreimersoftware\material-intro\1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="30e74f4af002cd833dc95b857357bb0381223dde">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.heinrichreimersoftware-material-intro-1.4_ecb30d368055c447e5454ec929674653d1df124f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_68bb764e4e2ece0a9df8c0558b25d9a09c2e337a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_64fe04fd2469f697d828ccd5696124b1b99e27e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.4.0_7d75907be898d308e8be553bc27ee4e32da6e79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.11_b7f32c2a0d8aa09f06f3ba788538b91050ee6de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_0d49d5129adfdb08f6d060a922cc85623b06c0ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_da51350c9341fff280222a6ce76c70177c343342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_64fe04fd2469f697d828ccd5696124b1b99e27e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_48dbc5e7945d3412961b76d4655781cf2c3ed288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.5.9_48694d88cd702cb5822327c0d49a8e24a79c81d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_2cddc71c7110d4a902a7e1bddac76ec4903ed3d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-module-9.4.0_0d49d5129adfdb08f6d060a922cc85623b06c0ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.jd-alexander\LikeButton\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="042cf6b3b9ef0ea3baacd9b27e4901680769cbc8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.github.jd-alexander-LikeButton-0.2.0_74480ccaa74481ad467f50c6fd5e99c0178ab050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\actionitembadge\3.2.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d75f3f7fff8daff98faaf704a955a99edce6037c">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.mikepenz-actionitembadge-3.2.5_b6b826b4dc675793314dbb4466817e41e5444c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5145fb86f0014bedd36ae373076d25ce30b812b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.4.0_8425df1e06c9a4999a17cff2f5bf8b9b07f53511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.facebook.android-facebook-android-sdk-4.19.0_19b1a6c5702eafecc4b732f051d5693d28510faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.jd-alexander\LikeButton\0.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="042cf6b3b9ef0ea3baacd9b27e4901680769cbc8">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.github.jd-alexander-LikeButton-0.2.0_74480ccaa74481ad467f50c6fd5e99c0178ab050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-2.0.0_d1088d978180dc5bcb93b62e4bf00a91ad20d883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tumblr\backboard\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80b962f6d769ec8c0413fa6a603c2717e1d06885">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.tumblr-backboard-0.1.0_1f85b4347778497802e3ab133526c939ff179ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.0_64fe04fd2469f697d828ccd5696124b1b99e27e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\build-tools\24.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\renderscript-v8_5f66e6f64afadca5835e6005b5af80ef5464a518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.4.0_51406372a4f3af51e0f21c5e3c91ceee138a3bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_edcc2be808034310a76860248e14d3df261ddadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\systembartint-1.0.3_edcc2be808034310a76860248e14d3df261ddadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.mikepenz\actionitembadge\3.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d75f3f7fff8daff98faaf704a955a99edce6037c">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.mikepenz-actionitembadge-3.2.5_b6b826b4dc675793314dbb4466817e41e5444c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_e558aba3b969eea1fd49b64d6242df549619fcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.0_39a3f3501c22ff1bb844de7ce1efae2a4ac217b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b32cca3d91b14ee546f768a85196536b0ffdd070">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\instant-run_cfb370039eaec6a86772af5a983ce096fb7909bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4cf6ff414996005f936308df484b1e27f7d1592e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.github.aakira-expandable-layout-1.5.1_d7022c89552c147e077e88a7dfcd302408f0c496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tiancaicc.springfloatingactionmenu\library\0.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3108c76c163ba6011293ed5fdd1d599b0eb36327">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.tiancaicc.springfloatingactionmenu-library-0.0.2_c8824703fa6812e99c108060fa635cf8872f151c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_91ddf92ee71ca30ff6fd441746f9e84cb7354062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.18.0_54a8660d9cd8201dfbb0fc6e64cadea44a74952e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_0b6bab8a3d32729dbb0fcd2ee43e817b44322717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_d1088d978180dc5bcb93b62e4bf00a91ad20d883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saitej dandge\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.8\c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e\rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\rebound-0.3.8_2f8322ebf29809efbab93e870aca6a15c996b503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.tumblr\backboard\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80b962f6d769ec8c0413fa6a603c2717e1d06885">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.tumblr-backboard-0.1.0_1f85b4347778497802e3ab133526c939ff179ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_5faff22164461083f2999c2b1826a37fc7f4f6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.lapism\searchview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8909b9ddd3e30c27a90de34169d3240b095aedf4">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.lapism-searchview-3.0.2_a1d7d30fbfb23d0e43624dd4092ee78d4b3aa02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_51406372a4f3af51e0f21c5e3c91ceee138a3bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_c1bdf831be499b293119d0478408a85fd2f13195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-9.4.0_46b40785e4b940a101bcb9624ce349f6964d05a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\build-tools\24.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\renderscript-v8_5f66e6f64afadca5835e6005b5af80ef5464a518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\myprojects\Questo\Questo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\myprojects\Questo\Questo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_39a3f3501c22ff1bb844de7ce1efae2a4ac217b4.jar" />
+    </item>
+
+</items>

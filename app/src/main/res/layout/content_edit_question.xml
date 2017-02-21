@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.tdevelopers.questo.EditStuff.EditQuestion"
+    tools:showIn="@layout/activity_edit_question">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="8dp"
+
+                >
+
+                <co.lujun.androidtagview.TagContainerLayout
+                    android:id="@+id/tag_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:padding="10dp"
+                    android:visibility="gone"
+                    app:container_background_color="#00000000"
+                    app:container_border_color="#33666666"
+                    app:container_border_radius="0dp"
+                    app:horizontal_interval="10dp"
+                    app:tag_background_color="#00000000"
+                    app:tag_border_color="@color/com_facebook_blue"
+                    app:tag_border_width="2dp"
+                    app:tag_clickable="true"
+                    app:tag_corner_radius="1dp"
+                    app:tag_horizontal_padding="15dp"
+                    app:tag_text_color="#ff666666"
+                    app:tag_text_size="14sp"
+                    app:tag_theme="none"
+                    app:tag_vertical_padding="10dp"
+                    app:vertical_interval="10dp" />
+
+
+                <android.support.v7.widget.AppCompatAutoCompleteTextView
+                    android:id="@+id/auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:background="@null"
+                    android:hint="Tags: Type cricket design java ..."
+                    android:textColorHint="@color/fab"
+                    android:visibility="gone" />
+
+
+                <FrameLayout
+                    android:id="@+id/fl"
+                    android:layout_width="240dp"
+                    android:layout_height="200dp"
+                    android:layout_margin="16dp"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/pic"
+                        android:layout_width="240dp"
+                        android:layout_height="200dp" />
+
+                    <ImageView
+                        android:id="@+id/close"
+                        android:layout_width="37dp"
+                        android:layout_height="37dp"
+                        android:layout_gravity="right"
+                        android:src="@drawable/close_red" />
+                </FrameLayout>
+
+                <android.support.v7.widget.AppCompatEditText
+                    android:id="@+id/questionadd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@null"
+                    android:ems="10"
+                    android:hint="Type Question"
+                    android:scrollbars="vertical"
+                    android:textColor="@color/black"
+                    android:textColorHint="#aaac9d"
+                    android:textSize="20sp" />
+
+                <RelativeLayout
+                    android:id="@+id/choices_rl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone">
+
+                    <RadioButton
+                        android:id="@+id/ch0add"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/e0"
+                        android:layout_marginTop="40dp" />
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@id/e0"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="40dp"
+                        android:layout_toRightOf="@id/ch0add"
+                        android:background="@null"
+                        android:hint="Choice 1"
+                        android:textColorHint="#aaac9d" />
+
+
+                    <RadioButton
+
+                        android:id="@+id/ch1add"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/e1"
+                        android:layout_below="@id/ch0add"
+                        android:layout_marginTop="40dp" />
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@id/e1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/e0"
+                        android:layout_marginTop="40dp"
+                        android:layout_toRightOf="@id/ch1add"
+                        android:background="@null"
+                        android:hint="Choice 2"
+                        android:textColorHint="#aaac9d" />
+
+
+                    <RadioButton
+
+                        android:id="@+id/ch2add"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/e2"
+                        android:layout_below="@id/ch1add"
+                        android:layout_marginTop="40dp" />
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@id/e2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/e1"
+                        android:layout_marginTop="40dp"
+                        android:layout_toRightOf="@id/ch2add"
+                        android:background="@null"
+                        android:hint="Choice 3"
+                        android:textColorHint="#aaac9d" />
+
+
+                    <RadioButton
+
+                        android:id="@+id/ch3add"
+                        android:layout_width="wrap_content"
+
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/e3"
+                        android:layout_below="@id/ch2add"
+                        android:layout_marginTop="40dp" />
+
+                    <android.support.v7.widget.AppCompatEditText
+
+                        android:id="@id/e3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/e2"
+                        android:layout_marginTop="40dp"
+                        android:layout_toRightOf="@id/ch3add"
+                        android:background="@null"
+                        android:hint="Choice 4"
+                        android:textColorHint="#aaac9d" />
+
+                    <EditText
+                        android:id="@+id/explanationadd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/e3"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginTop="40dp"
+                        android:background="@null"
+                        android:hint="Explanation (Optional)"
+                        android:textColorHint="#aaac9d" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
+

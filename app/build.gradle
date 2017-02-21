@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.tdevelopers.questo"
+        minSdkVersion 16
+        targetSdkVersion 24
+        versionCode 43
+        versionName "2.2"
+
+        renderscriptTargetApi 20
+        renderscriptSupportModeEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.google.firebase:firebase-invites:9.4.0'
+    compile 'com.google.firebase:firebase-auth:9.4.0'
+    compile 'com.mikepenz:actionitembadge:3.2.5@aar'
+    compile 'com.mikepenz:iconics-core:2.5.11@aar'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.android.support:support-v4:24+'
+
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.google.firebase:firebase-storage:9.4.0'
+    compile 'com.google.firebase:firebase-messaging:9.4.0'
+    compile 'com.google.firebase:firebase-database:9.4.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile 'com.heinrichreimersoftware:material-intro:1.4'
+    compile 'com.afollestad.material-dialogs:core:0.8.5.9'
+    compile 'com.android.support:palette-v7:24.2.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.github.jd-alexander:LikeButton:0.2.0'
+    compile 'co.lujun:androidtagview:1.0.3'
+    compile 'com.cocosw:bottomsheet:1.+@aar'
+    compile 'com.lapism:searchview:3.0.2'
+    compile 'com.github.aakira:expandable-layout:1.5.1@aar'
+    compile 'com.github.PhilJay:MPAndroidChart:v2.2.5'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.+'
+    compile 'com.tiancaicc.springfloatingactionmenu:library:0.0.2'
+    compile 'com.google.firebase:firebase-invites:9.4.0'
+
+
+}
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,106 @@
+<resources>
+
+    <string name="app_name">Questo</string>
+    <string name="facebook_app_id">1570707739895693</string>
+    <string name="title_material_metaphor">Questo</string>
+    <string name="title_material_bold">
+Leadership Board </string>
+    <string name="title_material_motion">
+Share your story
+</string>
+    <string name="title_material_shadow">Social Network</string>
+
+    <string name="description_material_metaphor">
+Post, discuss and answer Questions
+</string>
+    <string name="description_material_bold">Earn points by answering and posting questions
+</string>
+    <string name="description_material_motion">
+        Write something that you want to confess with world
+</string>
+    <string name="description_material_shadow">Get notifications from tags and people you follow.\n
+        Discuss with other people and grow
+</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="large_text">
+        I\'’m a mobile product developer and user experience/interface engineer.\n\n
+
+
+I\'m currently studying CSE at CBIT, Hyderabad.\n\n
+
+
+I\'ve been playing with Android platform since 3 years and have been recognized as Google Facilitator at my campus.\n\n
+
+
+In past 3 years I\'ve made 3 apps and conducted  workshops on Android Development with Data Structures in my college.\n\n
+
+
+I mainly focus on creating polished, pixel-perfect, smooth and responsive applications with good material design.\n\n
+
+
+Please share this app and help us in growing big.\n\n
+
+
+    </string>
+
+    <string name="title_activity_add_question">AddQuestion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_tag">TagActivity</string>
+    <string name="title_activity_my_friends">MyFriends</string>
+    <string name="title_activity_follow_stuff">FollowStuffActivity</string>
+    <string name="title_activity_cat_open">CatOpenActivity</string>
+    <string name="title_activity_add_article_material">AddArticleMaterial</string>
+    <string name="title_activity_tag_open">TagOpenActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_article_open">ArticleOpenActivity</string>
+    <string name="title_activity_question_open">QuestionOpenActivity</string>
+    <string name="title_activity_search_">Search_Activity</string>
+    <string name="title_activity_reactions_">Reactions_Activity</string>
+    <string name="title_activity_reacted_users">ReactedUsersActivity</string>
+    <string name="title_activity_explore_">Explore_Activity</string>
+    <string name="title_activity_favorite_">Favorite_Activity</string>
+    <string name="title_activity_add_new_tag">AddNewTag</string>
+    <string name="title_activity_leadershipboard_activity">Leadershipboard_activity</string>
+    <string name="title_activity_score_chart">ScoreChart</string>
+    <string name="title_activity_edit__my__profile">Edit_My_Profile</string>
+    <string name="title_activity_about_me">About_me</string>
+    <string name="title_activity_chat_main">ChatMain</string>
+    <string name="title_activity_chat_open">ChatOpenActivity</string>
+    <string name="title_activity_new_chat">NewChatActivity</string>
+    <string name="title_activity_edit_question">EditQuestion</string>
+    <string name="title_activity_user_questions">UserQuestionsActivity</string>
+    <string name="title_activity_user_articles">UserArticlesActivity</string>
+    <string name="title_activity_user_like">UserLikeActivity</string>
+    <string name="title_activity_page_open">PageOpenActivity</string>
+    <string name="title_activity_add_page">AddPage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_page">PageActivity</string>
+    <string name="title_activity_add_admin">AddAdmin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="invitation_title">Send App Invite</string>
+    <string name="invitation_custom_image">https://lh3.googleusercontent.com/SvUBVren25qnANUb4brUlPPeHg1Z6dl_PCNr7bRooGSRXulLjG9Uz7tjQAcGjYc1Mw=h900-rw</string>
+    <string name="invitation_cta">Install</string>
+    <string name="title_activity_dummy__about">Dummy_About</string>
+
+
+</resources>

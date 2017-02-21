@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ECEFF1">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="4dp"
+        android:padding="4dp"
+        app:cardElevation="2dp"
+        app:cardPreventCornerOverlap="false"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="0dp"
+        card_view:cardCornerRadius="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:id="@+id/rll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/userdp"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="8dp"
+                    android:src="@mipmap/ic_launcher" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_toLeftOf="@+id/date"
+                    android:layout_toRightOf="@+id/userdp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+
+                    android:text="@string/com_facebook_loading"
+                    android:textColor="@color/material_blue_500"
+                    android:textStyle="bold" />
+
+                <TextView
+
+                    android:id="@+id/date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="4dp"
+                    android:layout_toLeftOf="@+id/star"
+                    android:layout_toStartOf="@+id/star"
+
+                    android:text="@string/com_facebook_loading"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+
+                <com.like.LikeButton
+                    android:id="@+id/star"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_toLeftOf="@+id/menu"
+                    android:layout_toStartOf="@+id/menu"
+                    app:icon_size="18dp"
+                    app:icon_type="star" />
+
+                <ImageView
+                    android:id="@+id/menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:paddingBottom="16dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="16dp"
+                    android:paddingTop="16dp"
+
+                    android:src="@drawable/ic_more_vert_black_18dp" />
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/contentquestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="6dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:paddingBottom="16dp"
+
+                android:paddingTop="16dp"
+                android:text="@string/com_facebook_loading"
+                android:textColor="@color/black"
+                android:textSize="21sp" />
+
+
+            <co.lujun.androidtagview.TagContainerLayout
+                android:id="@+id/tag_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:padding="4dp"
+                app:container_background_color="@color/transparent"
+                app:container_border_radius="0dp"
+                app:container_enable_drag="false"
+                app:horizontal_interval="3dp"
+                app:tag_background_color="#00000000"
+                app:tag_border_color="@color/md_material_blue_800"
+                app:tag_border_width="2dp"
+                app:tag_clickable="true"
+                app:tag_corner_radius="0dp"
+                app:tag_horizontal_padding="7dp"
+                app:tag_text_color="@color/material_blue_500"
+                app:tag_text_size="12sp"
+
+                app:tag_theme="none"
+                app:tag_vertical_padding="6dp"
+                app:vertical_interval="6dp" />
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:id="@+id/ll1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="8dp"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+
+                        android:src="@drawable/ic_people_grey_500_24dp" />
+
+                    <TextView
+                        android:id="@+id/viewcount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="8dp"
+                        android:text="0" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ll2"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/ll1"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+
+                        android:src="@drawable/ic_comment_grey_500_24dp" />
+
+                    <TextView
+                        android:id="@+id/commentcount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="8dp"
+                        android:text="0" />
+
+                </LinearLayout>
+
+                <LinearLayout
+
+                    android:id="@+id/ll3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/ll2"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:paddingRight="16dp">
+
+                    <com.like.LikeButton
+
+                        android:id="@+id/likedp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:anim_scale_factor="3"
+                        app:icon_size="18dp"
+                        app:icon_type="heart" />
+
+                    <TextView
+                        android:id="@+id/likecount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="0" />
+
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>
+

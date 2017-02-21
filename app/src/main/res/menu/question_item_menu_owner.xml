@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="100"
+        android:title="Edit"
+        android:visible="false"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/sharelink"
+        android:orderInCategory="100"
+        android:title="Copy link"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/report"
+        android:orderInCategory="100"
+        android:title="Report Question"
+        app:showAsAction="always" />
+
+
+</menu>

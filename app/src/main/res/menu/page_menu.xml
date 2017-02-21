@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="1"
+        android:title="Share Page" />
+
+
+    <item
+        android:id="@+id/sharelink"
+        android:orderInCategory="1"
+        android:title="Copy Page link" />
+
+    <item
+        android:id="@+id/website"
+        android:orderInCategory="1"
+        android:title="Website"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/desc"
+        android:orderInCategory="1"
+        android:title="About"
+        android:visible="false" />
+
+</menu>
