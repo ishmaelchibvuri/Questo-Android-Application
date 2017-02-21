@@ -3,9 +3,8 @@ Ask, Answer and Explore Multiple Choice Questions
 
 Post, Discuss and Answer Questions (Multiple Choice Questions)
 
-![Alt text](/Images/google-play-badge.png?raw=true "Badge")
 
-<img src="Images/google-play-badge.png"/>
+<a href="https://play.google.com/store/apps/details?id=com.tdevelopers.questo"><img src="Images/google-play-badge.png"/></a>
 
 User can post a MCQ, write a blog, ask doubts.
 
