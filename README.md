@@ -5,6 +5,8 @@ Post, Discuss and Answer Questions (Multiple Choice Questions)
 
 ![Alt text](/Images/google-play-badge.png?raw=true "Badge")
 
+<img src="Images/google-play-badge.png"/>
+
 User can post a MCQ, write a blog, ask doubts.
 
 
