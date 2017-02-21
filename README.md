@@ -10,14 +10,21 @@ Post, Discuss and Answer Questions (Multiple Choice Questions)
 
 <table>
 <tr>
-<img width="500px" height="500px" src="Images/1.png"/>
-<img width="500px" height="500px" src="Images/2.png"/>
-<img width="500px" height="500px" src="Images/3.png"/>
+
+<th><img width="500px" height="500px" src="Images/1.png"/></th>
+<th><img width="500px" height="500px" src="Images/2.png"/></th>
+<th><img width="500px" height="500px" src="Images/3.png"/></th>
 </tr>
 <tr>
+<th>
 <img width="500px" height="500px" src="Images/4.png"/>
+</th>
+<th>
 <img width="500px" height="500px" src="Images/5.png"/>
+</th>
+<th>
 <img width="500px" height="500px" src="Images/6.png"/>
+</th>
 </tr>
 <table>
 User can post a MCQ, write a blog, ask doubts.
