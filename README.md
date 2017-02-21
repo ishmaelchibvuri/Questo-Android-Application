@@ -3,6 +3,7 @@ Ask, Answer and Explore Multiple Choice Questions
 
 Post, Discuss and Answer Questions (Multiple Choice Questions)
 
+![Alt text](/Images/google-play-badge.png?raw=true "Badge")
 
 User can post a MCQ, write a blog, ask doubts.
 
