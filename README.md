@@ -3,6 +3,11 @@ Ask, Answer and Explore Multiple Choice Questions
 
 Post, Discuss and Answer Questions (Multiple Choice Questions)
 
+User can post a MCQ, write a blog, ask doubts.
+
+Share your knowledge and know the things around
+
+
 
 <a href="https://play.google.com/store/apps/details?id=com.tdevelopers.questo"><img src="Images/google-play-badge.png"/></a>
 
@@ -27,12 +32,21 @@ Post, Discuss and Answer Questions (Multiple Choice Questions)
 </th>
 </tr>
 <table>
-User can post a MCQ, write a blog, ask doubts.
 
+<h1>Technicalities</h1>
+   
+    <ul>
+  
+  <b><li>Firebase Real Time Database</li></b>
+  <b> <li>Firebase Storage</li></b>
+   <b> <li>Firebase Cloud Messaging</li></b>
+    <b><li>Firebase Dynamic Links</li></b>
+   <b> <li>Firebase Invites</li></b>
+    <b><li>REST API calls</li></b>
+    
+    
+    </ul>
 
-Share your knowledge and know the things around
-
-        
 Features :
 
 <b>Leadership Board :</b>
