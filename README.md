@@ -35,7 +35,6 @@ Share your knowledge and know the things around
 
 <h1>Technicalities</h1>
    
-    <ul>
   
   <b><li>Firebase Real Time Database</li></b>
   <b> <li>Firebase Storage</li></b>
@@ -45,9 +44,8 @@ Share your knowledge and know the things around
     <b><li>REST API calls</li></b>
     
     
-    </ul>
 
-Features :
+<h1>Features :</h1>
 
 <b>Leadership Board :</b>
 
