@@ -8,13 +8,18 @@ Post, Discuss and Answer Questions (Multiple Choice Questions)
 
 <h1>Screens</h1>
 
+<table>
+<tr>
 <img width="500px" height="500px" src="Images/1.png"/>
 <img width="500px" height="500px" src="Images/2.png"/>
 <img width="500px" height="500px" src="Images/3.png"/>
+</tr>
+<tr>
 <img width="500px" height="500px" src="Images/4.png"/>
 <img width="500px" height="500px" src="Images/5.png"/>
 <img width="500px" height="500px" src="Images/6.png"/>
-
+</tr>
+<table>
 User can post a MCQ, write a blog, ask doubts.
 
 
